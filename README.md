@@ -2,4 +2,4 @@
 - [APIサーバの構築手順](./documents/Sprint1_APIサーバの構築.md)
 - [DBサーバの構築手順](./documents/Sprint2_DBサーバの構築.md)
 
-version 1.1
+version 1.2
