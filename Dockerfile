@@ -1,5 +1,5 @@
 # ベースイメージを指定
-FROM golang:1.18 as builder
+FROM golang:1.18 AS builder
 
 # ワーキングディレクトリを設定
 WORKDIR /app
